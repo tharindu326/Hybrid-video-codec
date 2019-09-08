@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Block Matching Motion Estimation Method
+%Motion Estimation and frame prediction 
 %%%% Inputs 
 
 % f_r ---> Reference Image 
@@ -218,10 +218,10 @@ set(gca,'xaxislocation','top','yaxislocation','left','xdir','default','ydir','re
 title('Motion Vector Field');
 xlabel('Columns'); 
 ylabel('Rows'); 
-toc ;
 end
 
-
+%Author : Tharindu Ekanayake 
+%tharindu@gmail.com
 
 
 
