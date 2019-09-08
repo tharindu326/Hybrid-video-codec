@@ -85,5 +85,6 @@ imfinfo('01.image_ref.jpg');
 % imfinfo('original estimate image.jpg');
 % imfinfo('original refference image.jpg');
 
-
+Author : Tharindu Ekanayake 
+tharindu@gmail.com
 
