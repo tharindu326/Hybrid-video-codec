@@ -115,4 +115,7 @@ imfinfo('original gray image after IDCT @ encoder.png')
 imfinfo('original gray image after IDCT @ decoder.png')
 
 
+Author : Tharindu Ekanayake 
+tharindu@gmail.com
+
 
